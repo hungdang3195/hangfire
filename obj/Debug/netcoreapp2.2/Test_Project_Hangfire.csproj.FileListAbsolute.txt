@@ -1,0 +1,14 @@
+D:\Test_Project_Hangfire\bin\Debug\netcoreapp2.2\Test_Project_Hangfire.deps.json
+D:\Test_Project_Hangfire\bin\Debug\netcoreapp2.2\Test_Project_Hangfire.runtimeconfig.json
+D:\Test_Project_Hangfire\bin\Debug\netcoreapp2.2\Test_Project_Hangfire.runtimeconfig.dev.json
+D:\Test_Project_Hangfire\bin\Debug\netcoreapp2.2\Test_Project_Hangfire.dll
+D:\Test_Project_Hangfire\bin\Debug\netcoreapp2.2\Test_Project_Hangfire.pdb
+D:\Test_Project_Hangfire\obj\Debug\netcoreapp2.2\Test_Project_Hangfire.csprojAssemblyReference.cache
+D:\Test_Project_Hangfire\obj\Debug\netcoreapp2.2\Test_Project_Hangfire.csproj.CoreCompileInputs.cache
+D:\Test_Project_Hangfire\obj\Debug\netcoreapp2.2\Test_Project_Hangfire.RazorAssemblyInfo.cache
+D:\Test_Project_Hangfire\obj\Debug\netcoreapp2.2\Test_Project_Hangfire.RazorAssemblyInfo.cs
+D:\Test_Project_Hangfire\obj\Debug\netcoreapp2.2\Test_Project_Hangfire.AssemblyInfoInputs.cache
+D:\Test_Project_Hangfire\obj\Debug\netcoreapp2.2\Test_Project_Hangfire.AssemblyInfo.cs
+D:\Test_Project_Hangfire\obj\Debug\netcoreapp2.2\Test_Project_Hangfire.RazorTargetAssemblyInfo.cache
+D:\Test_Project_Hangfire\obj\Debug\netcoreapp2.2\Test_Project_Hangfire.dll
+D:\Test_Project_Hangfire\obj\Debug\netcoreapp2.2\Test_Project_Hangfire.pdb
